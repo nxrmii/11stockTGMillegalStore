@@ -1,8 +1,8 @@
 # 11stockTGMillegalStore
 Hier gibt es nichts zu sehen, verlassen Sie diese Website...
 # Sofort
-# Bataev war hier 2024
-# Felix was (not) here
+# Suli ist der schönste
+# Felix ist ne doofe nuss
 (jemand mysteriöses war hier)
 <<<<<<< HEAD
 # Nahi # Hier #
