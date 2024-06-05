@@ -1,7 +1,7 @@
 # 11stockTGMillegalStore
 Hier gibt es nichts zu sehen, verlassen Sie diese Website...
 # Sofort
-# Suli bort nase
-# Felix was  here
+# Suli ist der schönste
+# Felix ist ne doofe nuss
 (jemand mysteriöses war hier)
 # Nahi # Hier 
