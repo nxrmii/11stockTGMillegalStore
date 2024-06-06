@@ -2,11 +2,9 @@
 Hier gibt es nichts zu sehen, verlassen Sie diese Website...
 # Sofort
 <<<<<<< HEAD
-# Suli stinkt Check the time this was changed >:P
-# Felix was here. Oh really was he? 
-(jemand mysteriöses war hier) Man sagt sich er hieße tim
-# Nahi # wasn't # Here 
-=======
+# Check the time this was changed >:P
+# Felix was never here. o-O hehe... 
+Man sagt es verbirgt sich ein Alien in der 2DHIT
 # Suli ist der hello World
 # Felix ist der aller !tollste you see what I did there
 (jemand mysteriöses war hier)
