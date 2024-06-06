@@ -4,4 +4,4 @@ Man sagt es verbirgt sich ein Alien in der 2DHIT
 ## Nahiyan was never here
 ## Elias was never here
 ## Felix was never here 
-## Khasu was here... :V
+# Khasu was here... :V
