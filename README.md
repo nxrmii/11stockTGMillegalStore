@@ -1,14 +1,7 @@
-# 11stockTGMillegalStore
-Hier gibt es nichts zu sehen, verlassen Sie diese Website...
-# Sofort
-<<<<<<< HEAD
-# Check the time this was changed >:P
-# Felix was never here. o-O hehe... 
+# 11 Stock TGM == AREA 51
 Man sagt es verbirgt sich ein Alien in der 2DHIT
-# Suli ist der hello World
-# Felix ist der aller !tollste you see what I did there
-(jemand mysteriöses war hier)
-<<<<<<< HEAD
-# Nahi # Hier #
-# Khasu seine Arena 
-Wer hier etwas ändert, erklärt sich für ein Duell bereit...
+## Suli was never here
+## Nahiyan was never here
+## Elias was never here
+## Felix was never here 
+## Khasu was here... :V
